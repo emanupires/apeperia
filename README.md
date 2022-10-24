@@ -11,3 +11,5 @@
 → As tecnologias utilizadas são o HTML, CSS, JS.
 
 → Ainda, o projeto está sendo atualizado com algumas boas práticas de SEO e uma melhor visualização pensando no Mobile First.
+
+Link do deploy: https://emanupires.github.io/apeperia/
