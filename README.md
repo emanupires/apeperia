@@ -8,7 +8,7 @@
 
 → O projeto "Apeperia" está sendo construído como projeto final dos cursos de "Design responsivo" e "Formação Acessibilidade Web" da Alura. 
 
-→ As tecnologias utilizadas são o HTML, CSS, JS.
+→ As tecnologias utilizadas são o HTML e CSS.
 
 → Ainda, o projeto está sendo atualizado com algumas boas práticas de SEO e uma melhor visualização pensando no Mobile First.
 
